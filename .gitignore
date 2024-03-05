@@ -19,3 +19,6 @@
 
 # Go workspace file
 go.work
+measurements.txt
+output.txt
+go_output.txt
