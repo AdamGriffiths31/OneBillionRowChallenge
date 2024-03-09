@@ -17,6 +17,8 @@ func main() {
 		fmt.Println(versions.RunVersion1(*fileName))
 	case "2":
 		fmt.Println(versions.RunVersion2(*fileName))
+	case "3":
+		fmt.Println(versions.RunVersion3(*fileName))
 	default:
 		fmt.Println("Invalid version")
 	}

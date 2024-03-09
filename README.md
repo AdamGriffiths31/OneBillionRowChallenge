@@ -9,4 +9,5 @@ This is an implementation of the 1BRC in Go. The original challenge was written 
 | AWK      | 1047          |
 | Go v1    | 143.53        |
 | Go v2    | 115.46        |
+| Go v3    | 111.05        |
 | Java winning time    | 1.535        |
